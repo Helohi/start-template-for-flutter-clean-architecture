@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import 'package:vpn2app/core/error/failure.dart';
+import 'package:{app_name}/core/error/failure.dart';
 
 abstract class UseCase<Type> {
   Future<Either<Failure, Type>> call();

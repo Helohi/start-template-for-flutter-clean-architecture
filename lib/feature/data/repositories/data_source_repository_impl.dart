@@ -1,4 +1,4 @@
-import 'package:vpn2app/feature/domain/repositories/data_source_repository.dart';
+import 'package:{app_name}/core/datasources/datasource.dart';
 
 class DataSourceRepositoryImpl implements DataSourceRepository {
   final DataSource dataSource;
