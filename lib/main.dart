@@ -1,6 +1,6 @@
 /*
 To make this template work you need to:
-  1. replace every {app_name} with your app name
+  1. replace every  app_name with {app_name}
   2. dart pub add flutter_bloc get_it dartz equatable
 */
 
