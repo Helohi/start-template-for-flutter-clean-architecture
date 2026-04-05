@@ -8,10 +8,10 @@ import 'package:flutter/material.dart';
 import 'package:{app_name}/locator_service.dart' as di;
 
 void main() async {
-  /// Setting up Dependancy Inversion/GetIt
+  /// Setting up Dependency Inversion/GetIt
   await di.init();
 
-  /// Configuring SharedPrefences
+  /// Configuring SharedPreferences
 
   // Running app
   runApp(MyApp());
